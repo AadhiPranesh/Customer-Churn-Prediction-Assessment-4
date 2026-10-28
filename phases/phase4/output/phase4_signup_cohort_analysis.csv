@@ -1,0 +1,8 @@
+Signup_Cohort,Modeling_Split,Customer_Count,Churner_Count,Retained_Count,Observed_Churn_Rate_Pct,Mean_Pre_Cutoff_Tenure_Days,Mean_Pre_Cutoff_Txns,Mean_Pre_Cutoff_Spend
+2021 Signups (Early Adopters),TRAIN,745,279,466,37.45,974.8,47.3,1500.5
+2022 Signups (Mature Members),TRAIN,792,306,486,38.64,636.4,46.9,1540.48
+2023 H1 Signups (Pre-Cutoff Train),TRAIN,410,148,262,36.1,366.9,36.8,1206.67
+2023 Q3 Signups (Val Cohort: 6-9M Tenure),VAL,202,51,151,25.25,228.5,23.4,741.51
+2023 Q4 Signups (Val Cohort: 3-6M Tenure),VAL,204,30,174,14.71,135.9,14.0,458.11
+2024 Q1 Signups (Val Cohort: 0-3M Tenure),VAL,196,4,192,2.04,45.5,4.5,143.97
+2024 Q2 Signups (Post-Cutoff Excluded),EXCLUDED_POST_CUTOFF,51,0,51,0.0,0.0,0.0,0.0

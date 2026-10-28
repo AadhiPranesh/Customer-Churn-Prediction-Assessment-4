@@ -1,0 +1,10 @@
+Segment,Count,Actual_Churners
+Scenario 1 Only (Support),12,7
+Scenario 2 Only (Recency),13,10
+Scenario 3 Only (Digital),14,2
+S1 and S2 Only,15,15
+S1 and S3 Only,10,6
+S2 and S3 Only,10,10
+All Three Scenarios,17,17
+Total Unique Targeted,91,67
+Not Targeted by Any S1-S3,14,3

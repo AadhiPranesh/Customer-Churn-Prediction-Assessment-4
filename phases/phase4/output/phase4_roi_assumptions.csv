@@ -1,0 +1,5 @@
+Scenario_ID,Scenario_Name,Targeted_Population_N,True_Churners_Targeted,Intervention_Cost_Per_Customer_USD,Assumed_Retained_Customer_Value_USD,Evaluated_Efficacy_Scenarios,Source_Rationale,Assumption_Type
+S1,Scenario 1: Support Follow-up,54,45,15.0,250.0,"10%, 20%, 30%",Direct phone outreach by customer care agent + $10 appeasement voucher,Illustrative / Defensible Benchmark
+S2,Scenario 2: Reactivation Offer,55,52,8.0,250.0,"10%, 20%, 30%",Targeted physical mailer + high-value digital basket discount booklet ($15 off $75),Illustrative / Defensible Benchmark
+S3,Scenario 3: Digital Re-engagement,51,35,2.0,250.0,"10%, 20%, 30%",Push notification sequence + automated personalized onboarding email nudge series,Illustrative / Defensible Benchmark
+COMBINED,Combined Program (Deduplicated Unique),91,67,10.0,250.0,"10%, 20%, 30%","Blended weighted channel execution across phone, mail, and digital streams",Illustrative / Defensible Benchmark

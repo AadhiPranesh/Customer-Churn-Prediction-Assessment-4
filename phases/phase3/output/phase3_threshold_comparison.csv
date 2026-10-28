@@ -1,0 +1,5 @@
+Model,Threshold_Strategy,Threshold,Accuracy,Precision,Recall,F1_Score,TN,FP,FN,TP
+Logistic Regression,Default (Official),0.5,0.9468,0.8955,0.7059,0.7895,510,7,25,60
+Logistic Regression,Training-CV Optimized (0.60),0.6,0.9452,0.9194,0.6706,0.7755,512,5,28,57
+Random Forest,Default (Official),0.5,0.9169,0.6667,0.8235,0.7368,482,35,15,70
+Random Forest,Training-CV Optimized (0.53),0.53,0.9169,0.6768,0.7882,0.7283,485,32,18,67

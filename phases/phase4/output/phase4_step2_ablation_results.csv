@@ -1,0 +1,5 @@
+Feature_Set,N_Features,Description,Accuracy,Precision,Recall,F1_Score,PR_AUC,ROC_AUC,TN,FP,FN,TP
+Set 1: Demographics & Membership,6,"Age, Gender, City, Tier, Price Tier",0.5482,0.139,0.4235,0.2093,0.141,0.4807,294,223,49,36
+Set 2: Demographics + History,10,"Set 1 + Tenure, Exposure Months, Limited History Flag",0.1495,0.14,0.9765,0.2448,0.1791,0.5915,7,510,2,83
+Set 3: Purchase Behavior,22,"Set 2 + Spend, Txns, Recency, Q1 Momentum, Basket Size, Coupons",0.9103,0.6598,0.7529,0.7033,0.829,0.9327,484,33,21,64
+Set 4: Full Feature Set (Reference),28,"Set 3 + Support Tickets, Complaints, App Sessions, Email Opens",0.9169,0.6667,0.8235,0.7368,0.8499,0.9446,482,35,15,70

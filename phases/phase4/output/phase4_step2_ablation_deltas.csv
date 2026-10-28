@@ -1,0 +1,5 @@
+Feature_Set,N_Features,Accuracy,Delta_Accuracy,Precision,Delta_Precision,Recall,Delta_Recall,F1_Score,Delta_F1,PR_AUC,Delta_PR_AUC,ROC_AUC,Delta_ROC_AUC,TP,FP,FN,TN
+Set 1: Demographics & Membership,6,0.5482,-0.3687,0.139,-0.5277,0.4235,-0.4,0.2093,-0.5275,0.141,-0.7089,0.4807,-0.4639,36,223,49,294
+Set 2: Demographics + History,10,0.1495,-0.7674,0.14,-0.5267,0.9765,0.153,0.2448,-0.492,0.1791,-0.6708,0.5915,-0.3531,83,510,2,7
+Set 3: Purchase Behavior,22,0.9103,-0.0066,0.6598,-0.0069,0.7529,-0.0706,0.7033,-0.0335,0.829,-0.0209,0.9327,-0.0119,64,33,21,484
+Set 4: Full Feature Set (Reference),28,0.9169,0.0,0.6667,0.0,0.8235,0.0,0.7368,0.0,0.8499,0.0,0.9446,0.0,70,35,15,482

@@ -1,0 +1,5 @@
+Scenario_ID,Scenario_Name,Targeting_Criteria,Proposed_Action,Targeted_Customers_N,Pct_of_At_Risk_Cohort,Actual_Churners_Targeted,Actual_Retained_Targeted_FP,Targeting_Precision_Pct,Pct_of_Total_Validation_Churners,Hypothetical_Saved_Efficacy_10pct,Hypothetical_Saved_Efficacy_20pct,Hypothetical_Saved_Efficacy_30pct
+S1,Scenario 1: Support Follow-up,TOTAL_SUPPORT_TICKETS > 0 OR COMPLAINT == 1,Proactive service outreach & friction resolution call/credit,54,51.4,45,9,83.3,52.9,4.5,9.0,13.5
+S2,Scenario 2: Reactivation Offer,RECENCY >= 2 months (recency of at least two months),High-value $15 off $50 bounce-back grocery voucher,55,52.4,52,3,94.5,61.2,5.2,10.4,15.6
+S3,Scenario 3: Digital Re-engagement,Monthly App Sessions == 0 OR Monthly Email Opens == 0,Multi-channel digital onboarding push & digital coupon incentives,51,48.6,35,16,68.6,41.2,3.5,7.0,10.5
+COMBINED,Combined Program (Deduplicated Unique Customers),Customer qualifies for at least one scenario (S1 OR S2 OR S3),"Comprehensive, deduplicated multi-touch retention campaign",91,86.7,67,24,73.6,78.8,6.7,13.4,20.1

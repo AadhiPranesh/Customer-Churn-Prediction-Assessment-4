@@ -1,0 +1,12 @@
+Model,Metric,Observed,Bootstrap_Mean,CI_95_Lower,CI_95_Upper,Contains_Zero
+Logistic Regression,PR-AUC,0.8808,0.8803,0.8256,0.9287,
+Logistic Regression,ROC-AUC,0.9644,0.9641,0.9466,0.9799,
+Logistic Regression,Precision,0.8955,0.8977,0.8182,0.9678,
+Logistic Regression,Recall,0.7059,0.7053,0.6111,0.7977,
+Logistic Regression,F1-Score,0.7895,0.7888,0.7172,0.8571,
+Random Forest,PR-AUC,0.8499,0.8492,0.7884,0.9058,
+Random Forest,ROC-AUC,0.9446,0.944,0.9155,0.9698,
+Random Forest,Precision,0.6667,0.6677,0.5833,0.7568,
+Random Forest,Recall,0.8235,0.8218,0.7317,0.9036,
+Random Forest,F1-Score,0.7368,0.7358,0.6666,0.8043,
+Paired Difference (LR - RF),PR-AUC Difference,0.031,0.0311,-0.0022,0.0677,Yes

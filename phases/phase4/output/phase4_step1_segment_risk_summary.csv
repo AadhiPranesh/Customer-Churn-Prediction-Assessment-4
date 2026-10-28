@@ -1,0 +1,8 @@
+Segment_Type,Segment_Value,Customer_Count_N,Actual_Churn_Count,Actual_Churn_Rate_Pct,RF_Mean_Churn_Prob_Pct,RF_Predicted_Churn_Count,RF_Predicted_Churn_Rate_Pct,RF_Recall_Pct,RF_Precision_Pct,LR_Mean_Churn_Prob_Pct,LR_Predicted_Churn_Count,Sample_Size_Reliability
+Membership_Tier,Silver,348,45,12.93,30.35,56,16.09,80.0,64.3,12.83,36,Sufficient Sample Size
+Membership_Tier,Gold,191,26,13.61,30.65,36,18.85,92.3,66.7,14.82,22,Sufficient Sample Size
+Membership_Tier,Platinum,63,14,22.22,29.52,13,20.63,71.4,76.9,16.68,9,"Small Sample (N=63, 14 churners)"
+Home_Store_Price_Tier,Mainstream,281,41,14.59,30.92,57,20.28,90.2,64.9,14.23,34,Sufficient Sample Size
+Home_Store_Price_Tier,Value,198,27,13.64,29.71,29,14.65,66.7,62.1,13.08,18,Sufficient Sample Size
+Home_Store_Price_Tier,Upscale,100,17,17.0,33.58,19,19.0,88.2,78.9,17.16,15,Moderate Sample (N=100)
+Home_Store_Price_Tier,Unknown,23,0,0.0,15.06,0,0.0,0.0,0.0,1.66,0,"Very Small Sample (N=23, 0 churners)"

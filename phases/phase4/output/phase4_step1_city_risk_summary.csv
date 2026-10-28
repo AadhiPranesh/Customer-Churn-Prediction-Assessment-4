@@ -1,0 +1,11 @@
+City,Customer_Count_N,Actual_Churn_Count,Actual_Churn_Rate_Pct,RF_Mean_Churn_Prob_Pct,RF_Predicted_Churn_Count,RF_Predicted_Churn_Rate_Pct,RF_Recall_Pct,RF_Precision_Pct,Sample_Size_Warning
+Austin,64,13,20.31,34.03,14,21.88,84.6,78.6,"Small Subgroup (N=64, 13 churners; wide confidence intervals)"
+Madison,62,10,16.13,30.9,13,20.97,90.0,69.2,"Small Subgroup (N=62, 10 churners; wide confidence intervals)"
+Denver,63,10,15.87,31.21,11,17.46,80.0,72.7,"Small Subgroup (N=63, 10 churners; wide confidence intervals)"
+Columbus,58,9,15.52,32.92,11,18.97,88.9,72.7,"Small Subgroup (N=58, 9 churners; wide confidence intervals)"
+Tulsa,71,11,15.49,30.55,14,19.72,81.8,64.3,"Small Subgroup (N=71, 11 churners; wide confidence intervals)"
+Spokane,50,6,12.0,30.63,8,16.0,83.3,62.5,"Small Subgroup (N=50, 6 churners; wide confidence intervals)"
+Boise,60,7,11.67,25.53,8,13.33,85.7,75.0,"Small Subgroup (N=60, 7 churners; wide confidence intervals)"
+Nashville,43,5,11.63,28.3,5,11.63,80.0,80.0,"Small Subgroup (N=43, 5 churners; wide confidence intervals)"
+Portland,70,8,11.43,30.04,12,17.14,62.5,41.7,"Small Subgroup (N=70, 8 churners; wide confidence intervals)"
+Raleigh,61,6,9.84,28.78,9,14.75,83.3,55.6,"Small Subgroup (N=61, 6 churners; wide confidence intervals)"

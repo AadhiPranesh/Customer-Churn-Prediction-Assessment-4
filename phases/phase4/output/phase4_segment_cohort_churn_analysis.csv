@@ -1,0 +1,68 @@
+Segment_Type,Segment_Name,Cohort_Scope,Customer_Count,Churner_Count,Retained_Count,Observed_Churn_Rate
+Membership_Tier,Silver,Validation_Cohort_N602,348,45,303,12.93
+Membership_Tier,Gold,Validation_Cohort_N602,191,26,165,13.61
+Membership_Tier,Platinum,Validation_Cohort_N602,63,14,49,22.22
+City,Austin,Validation_Cohort_N602,64,13,51,20.31
+City,Boise,Validation_Cohort_N602,60,7,53,11.67
+City,Columbus,Validation_Cohort_N602,58,9,49,15.52
+City,Denver,Validation_Cohort_N602,63,10,53,15.87
+City,Madison,Validation_Cohort_N602,62,10,52,16.13
+City,Nashville,Validation_Cohort_N602,43,5,38,11.63
+City,Portland,Validation_Cohort_N602,70,8,62,11.43
+City,Raleigh,Validation_Cohort_N602,61,6,55,9.84
+City,Spokane,Validation_Cohort_N602,50,6,44,12.0
+City,Tulsa,Validation_Cohort_N602,71,11,60,15.49
+Home_Store_Price_Tier,Mainstream,Validation_Cohort_N602,281,41,240,14.59
+Home_Store_Price_Tier,Value,Validation_Cohort_N602,198,27,171,13.64
+Home_Store_Price_Tier,Upscale,Validation_Cohort_N602,100,17,83,17.0
+Home_Store_Price_Tier,Unknown,Validation_Cohort_N602,23,0,23,0.0
+Signup_Cohort,2023 Q3 Signups (Val Cohort: 6-9M Tenure),Validation_Cohort_N602,202,51,151,25.25
+Signup_Cohort,2023 Q4 Signups (Val Cohort: 3-6M Tenure),Validation_Cohort_N602,204,30,174,14.71
+Signup_Cohort,2024 Q1 Signups (Val Cohort: 0-3M Tenure),Validation_Cohort_N602,196,4,192,2.04
+Membership_Tier,Silver,All_Eligible_N2549,1450,476,974,32.83
+Membership_Tier,Gold,All_Eligible_N2549,804,248,556,30.85
+Membership_Tier,Platinum,All_Eligible_N2549,295,94,201,31.86
+City,Austin,All_Eligible_N2549,260,100,160,38.46
+City,Boise,All_Eligible_N2549,240,79,161,32.92
+City,Columbus,All_Eligible_N2549,259,97,162,37.45
+City,Denver,All_Eligible_N2549,252,74,178,29.37
+City,Madison,All_Eligible_N2549,253,76,177,30.04
+City,Nashville,All_Eligible_N2549,234,79,155,33.76
+City,Portland,All_Eligible_N2549,236,68,168,28.81
+City,Raleigh,All_Eligible_N2549,277,84,193,30.32
+City,Spokane,All_Eligible_N2549,248,73,175,29.44
+City,Tulsa,All_Eligible_N2549,290,88,202,30.34
+Home_Store_Price_Tier,Mainstream,All_Eligible_N2549,1134,355,779,31.31
+Home_Store_Price_Tier,Value,All_Eligible_N2549,876,305,571,34.82
+Home_Store_Price_Tier,Upscale,All_Eligible_N2549,412,120,292,29.13
+Home_Store_Price_Tier,Unknown,All_Eligible_N2549,127,38,89,29.92
+Signup_Cohort,2021 Signups (Early Adopters),All_Eligible_N2549,745,279,466,37.45
+Signup_Cohort,2022 Signups (Mature Members),All_Eligible_N2549,792,306,486,38.64
+Signup_Cohort,2023 H1 Signups (Pre-Cutoff Train),All_Eligible_N2549,410,148,262,36.1
+Signup_Cohort,2023 Q3 Signups (Val Cohort: 6-9M Tenure),All_Eligible_N2549,202,51,151,25.25
+Signup_Cohort,2023 Q4 Signups (Val Cohort: 3-6M Tenure),All_Eligible_N2549,204,30,174,14.71
+Signup_Cohort,2024 Q1 Signups (Val Cohort: 0-3M Tenure),All_Eligible_N2549,196,4,192,2.04
+Membership_Tier,Silver,Full_Population_N2600,1474,476,998,32.29
+Membership_Tier,Gold,Full_Population_N2600,824,248,576,30.1
+Membership_Tier,Platinum,Full_Population_N2600,302,94,208,31.13
+City,Austin,Full_Population_N2600,266,100,166,37.59
+City,Boise,Full_Population_N2600,247,79,168,31.98
+City,Columbus,Full_Population_N2600,268,97,171,36.19
+City,Denver,Full_Population_N2600,257,74,183,28.79
+City,Madison,Full_Population_N2600,256,76,180,29.69
+City,Nashville,Full_Population_N2600,237,79,158,33.33
+City,Portland,Full_Population_N2600,240,68,172,28.33
+City,Raleigh,Full_Population_N2600,282,84,198,29.79
+City,Spokane,Full_Population_N2600,252,73,179,28.97
+City,Tulsa,Full_Population_N2600,295,88,207,29.83
+Home_Store_Price_Tier,Mainstream,Full_Population_N2600,1159,355,804,30.63
+Home_Store_Price_Tier,Value,Full_Population_N2600,893,305,588,34.15
+Home_Store_Price_Tier,Upscale,Full_Population_N2600,418,120,298,28.71
+Home_Store_Price_Tier,Unknown,Full_Population_N2600,130,38,92,29.23
+Signup_Cohort,2021 Signups (Early Adopters),Full_Population_N2600,745,279,466,37.45
+Signup_Cohort,2022 Signups (Mature Members),Full_Population_N2600,792,306,486,38.64
+Signup_Cohort,2023 H1 Signups (Pre-Cutoff Train),Full_Population_N2600,410,148,262,36.1
+Signup_Cohort,2023 Q3 Signups (Val Cohort: 6-9M Tenure),Full_Population_N2600,202,51,151,25.25
+Signup_Cohort,2023 Q4 Signups (Val Cohort: 3-6M Tenure),Full_Population_N2600,204,30,174,14.71
+Signup_Cohort,2024 Q1 Signups (Val Cohort: 0-3M Tenure),Full_Population_N2600,196,4,192,2.04
+Signup_Cohort,2024 Q2 Signups (Post-Cutoff Excluded),Full_Population_N2600,51,0,51,0.0
